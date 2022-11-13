@@ -1,0 +1,18 @@
+Instalar expo de forma global y correr el comando expo start --tunnel porque si no no arranca
+Ojo con los paquetes y la compatibilidad con Node!!!
+=> sInstalar las dependencias 
+
+Agragar las fuentes, imagenes e iconos en una carpeta assets
+Agragar data en una carpeta constants
+Editar App.js 
+Crear la carpeta screens con las pantallas de Home y Details
+Crear la carpeta components con los componentes iniciales
+Editar Home
+Pasar NFTCard a Home
+Editar NFTCard
+Crear el componente Button que va a tener dos bottones => CircleButton y RectButton
+Crear el componente SubInfo
+Editar el componente HomeHeader
+Crear los componentes DetailsDesc y DetailsBid
+Editar la vista Details
+En Home crear handleSearch
